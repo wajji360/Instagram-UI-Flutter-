@@ -1,16 +1,46 @@
-# flutterlogin
+# Instagram UI Clone - Flutter
 
-A new Flutter project.
+A fully responsive Instagram UI clone built with Flutter, inspired by Mitch Koko's YouTube tutorials.  
+This project replicates the core Instagram app design, including Home, Search, Shop, Reels, and Account screens, focusing solely on UI without backend integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Home Page**: Stories and feed layout with posts  
+- **Search Page**: Explore grid with smooth scrolling images
+- **Reels Page**: Vertical reels style video feed (UI only)    
+- **Shop Page**: Category chips and product grid
+- **Account Page**: Profile layout with user info and posts tabs  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter  
+- Dart
+
+---
+
+## 📂 Project Structure
+lib/
+├── pages/
+│ ├── home.dart
+│ ├── search.dart
+│ ├── reels.dart
+│ ├── shop.dart
+│ ├── account.dart
+├── utils/
+│ ├── shop_grid.dart
+| ├── home_page.dart
+| ├── explore_grid.dart
+| ├── user_posts.dart
+| ├── bubble_stories.dart
+| ├── account_tab1.dart
+| ├── account_tab2.dart
+| ├── account_tab3.dart
+| ├── account_tab4.dart
+└── main.dart
+
+
+>>>>>>> 3dedd77c193c4553f8f5fd2c8056d3993cc6ecd9
