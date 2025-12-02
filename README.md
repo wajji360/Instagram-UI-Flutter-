@@ -1,3 +1,8 @@
+# Flutter Todo App
+
+This is a simple Todo App built using **Flutter** and **Dart**.
+
+
 # Instagram UI Clone - Flutter
 
 A fully responsive Instagram UI clone built with Flutter, inspired by Mitch Koko's YouTube tutorials.  
